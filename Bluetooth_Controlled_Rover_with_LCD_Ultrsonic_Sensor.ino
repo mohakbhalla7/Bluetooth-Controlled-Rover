@@ -177,10 +177,10 @@ void loop() {
       Serial.println("Incorrect Command");
 
       lcd.clear();
-      lcd.setCursor(1,0);
-      lcd.print("Dyslexic? Gawar");
-      lcd.setCursor(1,1);
-      lcd.print("theek se likh");
+      lcd.setCursor(4,0);
+      lcd.print("Incorrect");
+      lcd.setCursor(5,1);
+      lcd.print("Command");
     }
   }
   digitalWrite(trigPin, LOW);
