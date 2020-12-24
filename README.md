@@ -11,28 +11,28 @@ Motor Driver L298N
 
 # Pin Connection
 -LCD1602 I2C backpack
-SCL - A5
-SDA - A4
-Vcc - 5V
-Gnd - Gnd
+  SCL - A5
+  SDA - A4
+  Vcc - 5V
+  Gnd - Gnd
 
 -Bluetooth  module HC-05
-Tx - Rx
-Rx - Tx (With a voltage divider circuit)
-Vcc - 5V
-Gnd - Gnd
+  Tx - Rx
+  Rx - Tx (With a voltage divider circuit)
+  Vcc - 5V
+  Gnd - Gnd
 
 -Ultrasonic sensor HC-SR04
-Echo - 6
-Trig - 7
-Vcc - 5V
-Gnd - Gnd
+  Echo - 6
+  Trig - 7
+  Vcc - 5V
+  Gnd - Gnd
 
 -Motor Driver L298N
-OUT1, OUT2, OUT3 & OUT4- To the motor
-IN1 - 4
-IN2 - 5
-IN3 - 2
-IN$ - 3
-12V - External power source
-Gnd - Gnd
+  OUT1, OUT2, OUT3 & OUT4- To the motor
+  IN1 - 4
+  IN2 - 5
+  IN3 - 2
+  IN$ - 3
+  12V - External power source
+  Gnd - Gnd
