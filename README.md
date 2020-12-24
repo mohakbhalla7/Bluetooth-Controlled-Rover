@@ -29,7 +29,7 @@ Motor Driver L298N
   Gnd - Gnd  
   
 -Motor Driver L298N  
-  OUT1, OUT2, OUT3 & OUT4- To the motor  
+  OUT1, OUT2, OUT3 & OUT4 - To the motor  
   IN1 - 4  
   IN2 - 5  
   IN3 - 2  
