@@ -36,3 +36,7 @@ Motor Driver L298N
   IN$ - 3  
   12V - External power source  
   Gnd - Gnd
+
+# The Rover
+  
+  ![Bluetooth Controlled Path Correcting Rover](GIF/Bluetooth%20Controlled%20Path%20Correcting%20Rover-min.gif)
